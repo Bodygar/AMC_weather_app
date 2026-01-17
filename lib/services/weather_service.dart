@@ -5,7 +5,7 @@ import 'package:flutter/foundation.dart';
 
 class WeatherService {
 
-  static const String apikey = '74ce77b845ab7e3837e504f39c545afd';
+  static const String apikey = '';
   static const String baseUrl = 'https://api.openweathermap.org/data/2.5/weather';
 
 
